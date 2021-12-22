@@ -400,8 +400,8 @@ let
         mktplcRef = {
           name = "vscode-markdownlint";
           publisher = "DavidAnson";
-          version = "0.42.1";
-          sha256 = "c8c0647e0dd786fe68becca6dc73eade5f4220a26ab9faff8dd813a14b25df51";
+          version = "0.45.0";
+          sha256 = "1vci6pv1f9qr5g6yd9g208cj6gwisrg4lwcvv2sw833mrhpbxg1g";
         };
         meta = with lib; {
           license = licenses.mit;
